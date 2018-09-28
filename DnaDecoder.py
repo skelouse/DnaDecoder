@@ -1,4 +1,4 @@
-#Open your DNA file with "python3 DnaCount.py dnafile.txt"
+#Open your DNA file with "python3 DnaDecoder.py dnafile.txt"
 from sys import argv
 import os
 script, filename = argv
